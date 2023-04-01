@@ -1,0 +1,62 @@
+@import url(fonts.css);
+body{
+    font-family: 'Inter';
+    background: #212B31;
+    color: white;
+}
+
+.text_1{
+    width: 532px;
+    margin-left: 32px;
+}
+
+.text_2{
+    width: 532px;
+    margin-left: 32px;
+}
+
+.text_3{
+    width: 543px;
+}
+
+.text_4{
+    width: 549px;
+    margin-left: 32px;
+}
+
+.btn1{
+    margin-left: 32px;
+}
+
+.main_info{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blok_2{
+    margin-left: 53px;
+}
+
+.main_info2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.blok__1{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.text__1{
+    width: 340px;
+}
+
+.text__2{
+    width: 340px;
+}
+
+.text__3{
+    width: 340px;
+}

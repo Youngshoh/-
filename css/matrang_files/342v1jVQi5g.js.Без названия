@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("PolarisAPIRetrieveUserCallSettings",["PolarisInstapi","asyncToGeneratorRuntime"],(function(a,b,c,d,e,f,g){"use strict";function a(){return h.apply(this,arguments)}function h(){h=b("asyncToGeneratorRuntime").asyncToGenerator(function*(){var a=(yield d("PolarisInstapi").apiGet("/api/v1/video_call/retrieve_user_call_settings/"));return a.data});return h.apply(this,arguments)}g.retrieveUserCallSettings=a}),98);
